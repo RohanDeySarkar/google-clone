@@ -12,12 +12,12 @@ function Home() {
         <div className="home">
             <div className="home__header">
                 <div className="home__headerLeft">
-                    <Link to='/'>About</Link>
-                    <Link to='/'>Store</Link>
+                    <Link to='https://rohandeysarkar.github.io/google-clone/'>About</Link>
+                    <Link to='https://rohandeysarkar.github.io/google-clone/'>Store</Link>
                 </div>
                 <div className="home__headerRight">
-                    <Link to='/'>Gmail</Link>
-                    <Link to='/'>Images</Link>
+                    <Link to='https://rohandeysarkar.github.io/google-clone/'>Gmail</Link>
+                    <Link to='https://rohandeysarkar.github.io/google-clone/'>Images</Link>
                     <AppsIcon />
                     <Avatar />
                 </div>

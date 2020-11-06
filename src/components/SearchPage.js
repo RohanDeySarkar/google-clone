@@ -24,7 +24,7 @@ function SearchPage() {
     return (
         <div className="searchPage">
              <div className="searchPage__header">
-                <Link to="/">
+                <Link to="https://rohandeysarkar.github.io/google-clone/">
                     <img
                         className="searchPage__logo"
                         src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
@@ -39,36 +39,36 @@ function SearchPage() {
                         <div className="searchPage__optionsLeft">
                             <div className="searchPage__option">
                                 <SearchIcon />
-                                <Link to="/search">All</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">All</Link>
                             </div>
                             <div className="searchPage__option">
                                 <DescriptionIcon />
-                                <Link to="/search">News</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">News</Link>
                             </div>
                             <div className="searchPage__option">
                                 <ImageIcon />
-                                <Link to="/search">Images</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">Images</Link>
                             </div>
                             <div className="searchPage__option">
                                 <LocalOfferIcon />
-                                <Link to="/search">shopping</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">shopping</Link>
                             </div>
                             <div className="searchPage__option">
                                 <RoomIcon />
-                                <Link to="/search">maps</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">maps</Link>
                             </div>
                             <div className="searchPage__option">
                                 <MoreVertIcon />
-                                <Link to="/search">more</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">more</Link>
                             </div>
                         </div>
 
                         <div className="searchPage__optionsRight">
                             <div className="searchPage__option">
-                                <Link to="/search">Settings</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">Settings</Link>
                             </div>
                             <div className="searchPage__option">
-                                <Link to="/search">Tools</Link>
+                                <Link to="https://rohandeysarkar.github.io/google-clone/search">Tools</Link>
                             </div>
                         </div>
                     </div>
