@@ -1,3 +1,7 @@
+Deployed here -----> https://rohandeysarkar.github.io/google-clone/#/
+
+![](https://raw.githubusercontent.com/RohanDeySarkar/google-clone/master/google-clone-sampleImg.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
